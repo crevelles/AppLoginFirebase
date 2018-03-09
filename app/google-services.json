@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "649082110160",
+    "firebase_url": "https://loginfirebase-ebdeb.firebaseio.com",
+    "project_id": "loginfirebase-ebdeb",
+    "storage_bucket": "loginfirebase-ebdeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649082110160:android:32da0a5392d532ef",
+        "android_client_info": {
+          "package_name": "com.example.a21657540.apploginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649082110160-76v7fkjpgbklc05j4tqet0ets7nj4sfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbQXvgFx_b0B87mOB3C5wJIha6XgrPHuk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
